@@ -3,8 +3,8 @@
 ### Web Designer and Frontend Developer.
 
 - 📦 Web Designer and Frontend Developer en: <a href="https://www.buscalibre.com/" target="_blank">Buscalibre</a>
-- 😷 Creador de: <a href="https://www.infocovid19.cl/" target="_blank">InfoCOVID19</a>
-- 👟 Vendo zapatillas en: <a href="https://clickzapatilla.cl/" target="_blank">ClickZapatilla</a>
+- 😷 Delivering information about the pandemic in: <a href="https://www.infocovid19.cl/" target="_blank">InfoCOVID19</a>
+- 👟 Sometimes I sell sneakers in: <a href="https://clickzapatilla.cl/" target="_blank">ClickZapatilla</a>
 
 ### Lenguajes Y Herramientas 🛠 
 
