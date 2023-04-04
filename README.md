@@ -1,4 +1,4 @@
-# Hola, Soy <a href="https://volatil.cl" target="_blank">Paulo</a> 😄
+# Hi!, im <a href="https://volatil.cl" target="_blank">Paulo</a> 😄
 
 ### Web Designer and Frontend Developer.
 
@@ -6,7 +6,7 @@
 - 😷 Delivering information about the pandemic in: <a href="https://www.infocovid19.cl/" target="_blank">InfoCOVID19</a>
 - 👟 Sometimes I sell sneakers in: <a href="https://clickzapatilla.cl/" target="_blank">ClickZapatilla</a>
 
-### Lenguajes Y Herramientas 🛠 
+### Languages and Tools 🛠 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-%0769AD?style=flat-square&logo=jquery&logoColor=ffffff&color=0769AD)
