@@ -8,10 +8,10 @@
 
 ### Languages and Tools 🛠 
 
-![Next.JS](https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=vercel)
+![NEXTjs](https://img.shields.io/badge/-NEXTjs-FFFFFF?style=flat-square&logo=vercel&logoColor=000000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)
 ![jQuery](https://img.shields.io/badge/-jQuery-%0769AD?style=flat-square&logo=jquery&logoColor=ffffff&color=0769AD)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![Pug](https://img.shields.io/badge/-Pug-%0769AD?style=flat-square&logo=pug&logoColor=ffffff&color=a86454)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
