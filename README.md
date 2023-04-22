@@ -9,7 +9,7 @@
 ### Languages and Tools 🛠 
 
 ![Next.JS](https://img.shields.io/badge/-Next.JS-000000?style=flat-square&logo=vercel)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-cd5103?style=flat-square&logo=javascript&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-%0769AD?style=flat-square&logo=jquery&logoColor=ffffff&color=0769AD)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=ffffff)
 ![Pug](https://img.shields.io/badge/-Pug-%0769AD?style=flat-square&logo=pug&logoColor=ffffff&color=a86454)
