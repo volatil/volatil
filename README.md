@@ -2,9 +2,12 @@
 
 ### Web Designer and Frontend Developer.
 
-- 📦 Web Designer and Frontend Developer en: <a href="https://www.buscalibre.com/" target="_blank">Buscalibre</a>
-- 😷 Delivering information about the pandemic in: <a href="https://www.infocovid19.cl/" target="_blank">InfoCOVID19</a>
+- 📦 Web Designer and Frontend Developer in: <a href="https://www.buscalibre.com/" target="_blank">Buscalibre</a>
+- ⚽ Updated statistics of the soccer league in San Esteban, Chile: <a href="https://www.golesdebarrio.cl/" target="_blank">Goles de Barrio</a>
 - 👟 Sometimes I sell sneakers in: <a href="https://clickzapatilla.cl/" target="_blank">ClickZapatilla</a>
+<!--
+- 😷 Delivering information about the pandemic in: <a href="https://www.infocovid19.cl/" target="_blank">InfoCOVID19</a>
+-->
 
 ### Languages and Tools 🛠 
 
