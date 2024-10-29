@@ -30,7 +30,10 @@
 ![Powershell](http://img.shields.io/badge/-Powershell-5391FE?style=flat-square&logo=powershell&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 
+### Github Stats 📊
 
+[![](https://github-readme-stats.vercel.app/api?username=volatil&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/volatil)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=volatil&theme=material-palenight)](https://github.com/volatil)
 <!-- ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=Angular&logoColor=ffffff) -->
 <!-- ![Nodejs](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=ffffff) -->
 <!-- ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=ffffff) -->
